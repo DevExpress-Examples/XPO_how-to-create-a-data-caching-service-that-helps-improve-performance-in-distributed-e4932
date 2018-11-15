@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/ConsoleApplication1/Customer.cs) (VB: [Customer.vb](./VB/ConsoleApplication1/Customer.vb))
+* [Program.cs](./CS/ConsoleApplication1/Program.cs) (VB: [Program.vb](./VB/ConsoleApplication1/Program.vb))
+* **[Service1.svc.cs](./CS/WcfService1/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WcfService1/Service1.svc.vb))**
+* [Web.config](./CS/WcfService1/Web.config) (VB: [Web.config](./VB/WcfService1/Web.config))
+* [Service1.svc.cs](./CS/WcfService2/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WcfService2/Service1.svc.vb))
+* [Web.config](./CS/WcfService2/Web.config) (VB: [Web.config](./VB/WcfService2/Web.config))
+<!-- default file list end -->
 # How to create a data caching service that helps improve performance in distributed applications
 
 
